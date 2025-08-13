@@ -46,7 +46,7 @@ To use this dashboard locally or integrate it with your PowerBI environment, fol
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/rohit2026y/ByteSkill_Sales_Dashboard.git
+git clone https://github.com/abhi1202803/ByteSkill_Sales_Dashboard.git
 ```
 
 open the ByteSkill_Sales_Dashboard.pbix file in PowerBI desktop and refresh the data to get the latest data.
